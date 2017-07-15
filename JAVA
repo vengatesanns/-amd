@@ -1,1 +1,75 @@
 
+
+
+Employee
+
+
+
+
+
+ id
+ name
+ team
+ DOJ
+ email
+ salary
+
+
+
+
+
+
+ project
+
+
+
+
+
+ id
+ teamid
+ name
+
+
+
+
+
+
+
+
+
+ team
+
+
+
+
+
+ id
+ name
+
+
+
+
+
+
+
+
+
+
+ projectemployee
+
+
+
+
+
+ eployee.id
+ project.id
+
+
+Console output Columns
+name    team    DOJ    email    salary
+            
+List All employees            
+List of employees in team/project            
+List of employees joined in specific month            
+Top 5 employees get highest salary            
+Range wise Salary List
